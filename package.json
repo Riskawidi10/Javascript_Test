@@ -1,0 +1,14 @@
+{
+  "name": "tugas2",
+  "version": "1.0.0",
+  "description": "tugas pekanan 2 javascript",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "node soalnomor1.js"
+  },
+  "author": "riskawidi",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

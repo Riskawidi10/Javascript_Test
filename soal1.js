@@ -7,8 +7,22 @@ function calculateSquareRoot(x) {
     }
     return Math.sqrt(x);
 }
-
-// Contoh penggunaan
-let input = 16; // Ganti dengan angka yang ingin diuji
+let input = 32; // Ganti dengan angka yang ingin diuji
 let result = calculateSquareRoot(input);
 console.log(result);
+
+
+
+
+
+//const prompt = require('prompt-sync')({sigint: true});
+//Input angka yg ingin di uji
+//const angka = prompt('Input angka:');
+//const validAngka= 'angka'
+//if(angka < 0 ){
+//    console.log("Tidak bisa input bilangan negatif")}
+
+//if (angka % 2 !== 0){
+ //   console.log("Tidak bisa input bilangan ganjil")
+
+//}
