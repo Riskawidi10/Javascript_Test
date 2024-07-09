@@ -4,7 +4,7 @@
   "description": "tugas pekanan 2 javascript",
   "main": "soal1.js",
   "scripts": {
-    "test": "node soalnomor1.js"
+    "test": "node soal1.js"
   },
   "author": "riskawidi",
   "license": "ISC",
