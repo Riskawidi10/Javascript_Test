@@ -7,7 +7,7 @@ function calculateSquareRoot(x) {
     }
     return Math.sqrt(x);
 }
-let input = 16; // Ganti dengan angka yang ingin diuji
+let input = 9; // Ganti dengan angka yang ingin diuji
 let result = calculateSquareRoot(input);
 console.log(result);
 
